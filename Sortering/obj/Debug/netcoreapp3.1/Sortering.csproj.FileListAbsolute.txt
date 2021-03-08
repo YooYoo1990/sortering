@@ -1,0 +1,13 @@
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.csprojAssemblyReference.cache
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.AssemblyInfoInputs.cache
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.AssemblyInfo.cs
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.csproj.CoreCompileInputs.cache
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.exe
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.deps.json
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.runtimeconfig.json
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.runtimeconfig.dev.json
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.dll
+C:\Users\allex\source\repos\Sortering\Sortering\bin\Debug\netcoreapp3.1\Sortering.pdb
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.dll
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.pdb
+C:\Users\allex\source\repos\Sortering\Sortering\obj\Debug\netcoreapp3.1\Sortering.genruntimeconfig.cache
